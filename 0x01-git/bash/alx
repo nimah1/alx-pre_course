@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "ALX" >>bash/alx
+echo "ALX School is so cool" >>bash/alx
 echo echo ALX >>bash/alx
 echo echo ALX
-echo "ALX"
+echo "ALX School is so cool"
